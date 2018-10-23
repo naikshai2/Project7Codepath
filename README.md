@@ -50,7 +50,7 @@ Time spent: 5 hours spent in total
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     - [Link 2](http://wpdistillery.local/?attachment_id=11)
-4. (Optional) Vulnerability Name or ID
+4. Username Login Enumeration
   - [X] Summary: 
     - Vulnerability types: Username Enumeration
     - Tested in version: 4.2
